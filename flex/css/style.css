@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 1000px;
+    background-color: coral;
+}
+
+.item {
+    height: 200px;
+}
+
+.item1 {
+    background-color: pink;
+}
+
+.item2 {
+    background-color: skyblue;
+}
+
+.measure {
+    display: flex;
+    width: 1000px;
+    background: linear-gradient(to right, #69ff05, #5ada05, #3e9901);
+}
+
+.measure * {
+    width: 100px;
+    box-sizing: border-box;
+    padding: 8px;
+    text-align: right;
+    border-left: solid 1px black;
+}

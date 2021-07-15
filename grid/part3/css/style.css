@@ -1,0 +1,34 @@
+body {
+    font-size: 2rem;
+    width: 800px;
+    margin: 0 auto;
+    min-height: 100vh;
+    background-color: #e9f9ef;
+}
+
+header {
+    background-color: #c8f1d7;
+    border: 1px solid #222120;
+}
+
+main {
+    background-color: #c8f1d7;
+    border: 1px solid #222120;
+}
+
+nav {
+    background-color: #c8f1d7;
+    border: 1px solid #222120;
+}
+
+aside {
+    background-color: #c8f1d7;
+    border: 1px solid #222120;
+}
+
+footer {
+    background-color: #c8f1d7;
+    border: 1px solid #222120;
+}
+
+@media screen and (max-width: 1000px) {}
